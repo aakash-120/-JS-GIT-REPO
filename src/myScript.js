@@ -183,3 +183,5 @@ const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + my
 
 // Only change code below this line
 const myArray = ["string",10];
+// Only change code below this line
+const myArray2 = [["Bulls", 23], ["White Sox", 45]];
