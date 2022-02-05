@@ -1049,3 +1049,14 @@ const myArray17 = [];
 for (let i = 1; i < 10; i += 2) {
   myArray17.push(i);
 }
+
+
+// Setup
+const myArray18 = [];
+
+// Only change code below this line
+
+for (let i = 9; i > 0; i -= 2) {
+  myArray18.push(i);
+  console.log(i);
+}
