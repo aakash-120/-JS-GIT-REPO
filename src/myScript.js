@@ -218,3 +218,12 @@ const myArray7 = [["John", 23], ["cat", 2]];
 const removedFromMyArray = myArray7.pop();
 console.log(myArray7);
 console.log(removedFromMyArray);
+
+
+// Setup
+const myArray8 = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+const removedFromMyArray2 = myArray8.shift();
+console.log(myArray8);
+console.log(removedFromMyArray2);
