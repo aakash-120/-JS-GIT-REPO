@@ -81,3 +81,16 @@ ccc -= 1;
 console.log(aaa);
 console.log(bbb);
 console.log(ccc);
+
+
+let aaaa = 5;
+let bbbb = 12;
+let cccc = 4.6;
+
+// Only change code below this line
+aaaa *=  5;
+bbbb *=  3;
+cccc *= 10;
+console.log(aaaa);
+console.log(bbbb);
+console.log(cccc);
