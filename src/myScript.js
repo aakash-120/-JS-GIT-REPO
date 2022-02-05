@@ -142,3 +142,12 @@ const lastName2 = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastName2[0]; // Change this line
 console.log(firstLetterOfLastName);
+
+// Setup
+let myStr9 = "Jello World";
+
+// Only change code below this line
+// myStr[0] = "H"; // Change this line
+// Only change code above this line
+myStr9 = "Hello World";
+console.log(myStr9);
