@@ -109,3 +109,6 @@ const myStr2 = "I am a \"double quoted\" string inside \"double quotes\"."; // C
 
 const myStr3= '<a href="http://www.example.com" target="_blank">Link</a>';
 console.log(myStr3);
+
+const myStr4 = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+console.log(myStr4);
