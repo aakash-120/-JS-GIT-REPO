@@ -823,3 +823,15 @@ const testObj = {
 
   console.log(hatValue);
   console.log(shirtValue);
+
+
+  // Setup
+const testObj2 = {
+    "an entree": "hamburger",
+    "my side": "veggies",
+    "the drink": "water"
+  };
+  
+  // Only change code below this line
+  const entreeValue = testObj2["an entree"];   // Change this line
+  const drinkValue = testObj2["the drink"];    // Change this line
