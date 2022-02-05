@@ -245,11 +245,25 @@ function reusableFunction() {
   
   reusableFunction();
 
-  
+
   function functionWithArgs(param1, param2) {
     console.log(param1+param2);
   }
   
   functionWithArgs(1,2);
   functionWithArgs(7,9);
+
+
+  function timesFive(num) {
+    return num * 5;
+  }
+  
+  const answer = timesFive(5);
+  const answer2 = timesFive(2);
+  const answer3 = timesFive(0);
+  console.log(answer);
+  console.log(answer2);
+  console.log(answer3);
+
+
   
