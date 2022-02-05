@@ -1021,3 +1021,14 @@ function updateRecords(records, id, prop, value) {
 }
 
 updateRecords(recordCollection, 5439, 'artist', 'ABBA');
+
+// Setup
+const myArray15 = [];
+
+// Only change code below this line
+let i = 5;
+
+while (i >= 0) {
+  myArray15.push(i);
+  i--;
+}
