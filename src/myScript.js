@@ -211,3 +211,10 @@ const myArray6 = [["John", 23], ["cat", 2]];
 // Only change code below this line
 myArray6.push(["dog", 3]);
 
+// Setup
+const myArray7 = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+const removedFromMyArray = myArray7.pop();
+console.log(myArray7);
+console.log(removedFromMyArray);
