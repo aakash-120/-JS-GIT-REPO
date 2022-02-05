@@ -1041,3 +1041,11 @@ for (let i = 1; i <=5; i++) {
   myArray16.push(i);
   console.log(i);
 }
+
+// Setup
+const myArray17 = [];
+
+// Only change code below this line
+for (let i = 1; i < 10; i += 2) {
+  myArray17.push(i);
+}
