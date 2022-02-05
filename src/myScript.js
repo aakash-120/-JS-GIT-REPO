@@ -47,3 +47,5 @@ myVar--;
 
 // Only change code below this line
 const myDecimal = 5.7;
+const product1 = 5.0 * 1.0;
+console.log(product1);
