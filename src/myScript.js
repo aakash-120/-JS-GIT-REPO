@@ -205,3 +205,9 @@ const myArray5 = [
   const myData2 = myArray5[2][1];
   console.log(myData2);
 
+  // Setup
+const myArray6 = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+myArray6.push(["dog", 3]);
+
