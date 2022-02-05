@@ -368,3 +368,5 @@ function nextInLine(arr, item) {
   
     // Only change code above this line
   }
+  var bool = welcomeToBooleans();
+  console.log(bool);
