@@ -630,3 +630,35 @@ function golfScore(par, strokes) {
 
 // Change these values to test
 golfScore(5, 4);
+
+
+
+function caseInSwitch(val) {
+    let answer = "";
+    // Only change code below this line
+  switch(val) {
+    case 1:
+      // console.log("alpha");
+      return "alpha";
+      break;
+    case 2:
+      // console.log("beta");
+       return "beta";
+      break;
+      case 3:
+    // console.log("gamma");
+     return "gamma";
+    break;
+      case 4:
+    // console.log("delta");
+     return "delta";
+    break;
+      
+  }
+  
+  
+    // Only change code above this line
+    return answer;
+  }
+  
+  caseInSwitch(1);
