@@ -157,3 +157,10 @@ const lastName3 = "Lovelace";
 
 // Only change code below this line
 const thirdLetterOfLastName = lastName3[2]; // Change this line
+
+// Setup
+const lastName4 = "Lovelace";
+
+// Only change code below this line
+const lastLetterOfLastName2 = lastName[lastName4.length - 1]; // Change this line
+console.log(lastLetterOfLastName2);
