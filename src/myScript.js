@@ -117,3 +117,7 @@ const myStr5 = "This is the start. "+"This is the end."; // Change this line
 
 let myStr6 = "This is the first sentence.";
 myStr6 += " This is the second sentence.";
+
+const myName2 = "freeCodeCamp";
+const myStr7 = "Hello, our name is " + myName2 + ", how are you?";
+console.log(myStr7);
