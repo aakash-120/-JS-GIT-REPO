@@ -227,3 +227,11 @@ const myArray8 = [["John", 23], ["dog", 3]];
 const removedFromMyArray2 = myArray8.shift();
 console.log(myArray8);
 console.log(removedFromMyArray2);
+
+
+// Setup
+const myArray9 = [["John", 23], ["dog", 3]];
+const removedFromMyArray3 = myArray.shift();
+
+// Only change code below this line
+myArray9.unshift(["Paul", 35]);
