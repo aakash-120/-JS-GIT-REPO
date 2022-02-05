@@ -114,3 +114,6 @@ const myStr4 = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
 console.log(myStr4);
 
 const myStr5 = "This is the start. "+"This is the end."; // Change this line
+
+let myStr6 = "This is the first sentence.";
+myStr6 += " This is the second sentence.";
