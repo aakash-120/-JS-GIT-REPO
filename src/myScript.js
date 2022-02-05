@@ -55,3 +55,16 @@ console.log(quotient1);
 
 const remainder = 5%3;
 console.log(remainder);
+
+
+let aa = 3;
+let bb = 17;
+let cc = 12;
+
+// Only change code below this line
+aa +=  12;
+bb += 9 ;
+cc += 7;
+console.log(aa);
+console.log(bb);
+console.log(cc);
