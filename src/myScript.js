@@ -859,3 +859,12 @@ const myDog2 = {
   // Only change code below this line
   myDog2.name = "Happy Coder";
   
+
+  const myDog3 = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  
+  myDog3.bark ="";
