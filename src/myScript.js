@@ -868,3 +868,16 @@ const myDog2 = {
   };
   
   myDog3.bark ="";
+
+
+  // Setup
+const myDog4 = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+  };
+  
+  // Only change code below this line
+  delete myDog4.tails;
