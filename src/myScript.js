@@ -1032,3 +1032,12 @@ while (i >= 0) {
   myArray15.push(i);
   i--;
 }
+
+// Setup
+const myArray16= [];
+
+// Only change code below this line
+for (let i = 1; i <=5; i++) {
+  myArray16.push(i);
+  console.log(i);
+}
