@@ -315,22 +315,33 @@ console.log(myOutfit());
 
 
 // Setup
-let sum = 0;
+let sum2 = 0;
 
 function addThree() {
-  sum = sum + 3;
+  sum2 = sum2 + 3;
 }
 
 // Only change code below this line
 
 function addFive() {
-  sum = sum + 5;
+  sum2 = sum2 + 5;
 }
 
 // Only change code above this line
 
 addThree();
 addFive();
+
+// Setup
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+processed = processArg(7) ;
+console.log(processed);
 
 
   
