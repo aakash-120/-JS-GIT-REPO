@@ -103,3 +103,6 @@ let c2 = 33;
 a2 /= 12;
 b2 /= 4;
 c2 /= 11;
+
+
+const myStr2 = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
