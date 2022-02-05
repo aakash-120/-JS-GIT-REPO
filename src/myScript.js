@@ -772,7 +772,7 @@ function abTest(a, b) {
 
  let count = 0;
 
-function cc(card) {
+function cc1(card) {
   // Only change code below this line
   switch (card) {
     case 2:
@@ -798,4 +798,14 @@ function cc(card) {
   // Only change code above this line
 }
 
-cc(2); cc(3); cc(7); cc('K'); cc('A');
+cc1(2); cc1(3); cc1(7); cc1('K'); cc1('A');
+
+
+const myDog = {
+    // Only change code below this line
+  name:"aakash",
+  legs:4,
+  tails:5,
+  friends:[],
+    // Only change code above this line
+  };
