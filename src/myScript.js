@@ -923,7 +923,7 @@ function phoneticLookup(val) {
   phoneticLookup("charlie");
 
 
-  function checkObj(obj, checkProp) {
+  function checkObj3(obj, checkProp) {
     // Only change code below this line
      if (obj.hasOwnProperty(checkProp)) {
       return obj[checkProp];
@@ -933,3 +933,21 @@ function phoneticLookup(val) {
     return "Change Me!";
     // Only change code above this line
   }
+
+
+  var myMusic = [
+    {
+      artist: "Billy Joel",
+      title: "Piano Man",
+      release_year: 1973,
+      formats: ["CD", "8T", "LP"],
+      gold: true
+    },
+    // Add record here
+    {
+      artist: "Deep Purple",
+      title: "Smoke on the water",
+      release_year: 1976,
+      formats: ["CD", "8T", "LP"]
+    }
+  ];
