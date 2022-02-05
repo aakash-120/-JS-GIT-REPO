@@ -951,3 +951,18 @@ function phoneticLookup(val) {
       formats: ["CD", "8T", "LP"]
     }
   ];
+
+  const myStorage = {
+    "car": {
+      "inside": {
+        "glove box": "maps",
+        "passenger seat": "crumbs"
+       },
+      "outside": {
+        "trunk": "jack"
+      }
+    }
+  };
+  
+  // const gloveBoxContents = undefined;
+  var gloveBoxContents = myStorage.car.inside["glove box"];
