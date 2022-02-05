@@ -106,3 +106,6 @@ c2 /= 11;
 
 
 const myStr2 = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+
+const myStr3= '<a href="http://www.example.com" target="_blank">Link</a>';
+console.log(myStr3);
