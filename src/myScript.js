@@ -134,3 +134,11 @@ const lastName = "Lovelace";
 // Only change code below this line
 lastNameLength = lastName.length;
 console.log("Alan Peter".length);
+
+// Setup
+let firstLetterOfLastName2 = "";
+const lastName2 = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName2[0]; // Change this line
+console.log(firstLetterOfLastName);
