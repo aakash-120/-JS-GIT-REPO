@@ -126,3 +126,11 @@ const someAdjective = "awesome!";
 let myStr8 = "freeCodeCamp is ";
 myStr8 += someAdjective;
 console.log(myStr8);
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+console.log("Alan Peter".length);
