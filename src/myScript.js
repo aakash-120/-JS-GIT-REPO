@@ -835,3 +835,15 @@ const testObj2 = {
   // Only change code below this line
   const entreeValue = testObj2["an entree"];   // Change this line
   const drinkValue = testObj2["the drink"];    // Change this line
+
+  // Setup
+const testObj3 = {
+    12: "Namath",
+    16: "Montana",
+    19: "Unitas"
+  };
+  
+  // Only change code below this line
+  const playerNumber = 16;  // Change this line
+  const player = testObj3[playerNumber];   // Change this line
+  console.log(player);
