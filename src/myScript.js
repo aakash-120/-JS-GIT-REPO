@@ -151,3 +151,9 @@ let myStr9 = "Jello World";
 // Only change code above this line
 myStr9 = "Hello World";
 console.log(myStr9);
+
+// Setup
+const lastName3 = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName3[2]; // Change this line
