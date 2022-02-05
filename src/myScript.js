@@ -121,3 +121,8 @@ myStr6 += " This is the second sentence.";
 const myName2 = "freeCodeCamp";
 const myStr7 = "Hello, our name is " + myName2 + ", how are you?";
 console.log(myStr7);
+
+const someAdjective = "awesome!";
+let myStr8 = "freeCodeCamp is ";
+myStr8 += someAdjective;
+console.log(myStr8);
