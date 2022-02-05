@@ -68,3 +68,16 @@ cc += 7;
 console.log(aa);
 console.log(bb);
 console.log(cc);
+
+
+let aaa = 11;
+let bbb = 9;
+let ccc = 3;
+
+// Only change code below this line
+aaa -=  6;
+bbb -= 15;
+ccc -= 1;
+console.log(aaa);
+console.log(bbb);
+console.log(ccc);
