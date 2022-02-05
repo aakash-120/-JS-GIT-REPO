@@ -94,3 +94,12 @@ cccc *= 10;
 console.log(aaaa);
 console.log(bbbb);
 console.log(cccc);
+
+let a2 = 48;
+let b2 = 108;
+let c2 = 33;
+
+// Only change code below this line
+a2 /= 12;
+b2 /= 4;
+c2 /= 11;
