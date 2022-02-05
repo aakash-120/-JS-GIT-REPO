@@ -30,3 +30,5 @@ fact = "is awesome!";
 console.log(FCC, fact);
 
 const sum = 10 + 10;
+
+const difference = 45 - 33;
