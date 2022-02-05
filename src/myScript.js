@@ -52,3 +52,6 @@ console.log(product1);
 
 const quotient1 = 4.4 / 2; // Change this line
 console.log(quotient1);
+
+const remainder = 5%3;
+console.log(remainder);
